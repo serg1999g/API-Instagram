@@ -1,0 +1,19 @@
+.wrapper-btn {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.wrapper-img {
+    display: flex;
+    justify-content: center;
+}
+
+.photo {
+    width: 640px;
+}
+
+#instafeed a img {
+    margin-bottom: 20px;
+}
